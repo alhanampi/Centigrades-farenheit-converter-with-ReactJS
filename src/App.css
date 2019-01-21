@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+
+body {
+  background-image: url('styles/background2.png');
+  height: auto;
+  width: auto;
+}
+
+input {
+  border: 3px solid peru;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 15px;
+  box-shadow: 10px 10px 10px rgb(119, 56, 26);
+}
+
+.titleText, span {
+  font-family: 'Bitter', serif;
+  color: aliceblue;
+}
